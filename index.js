@@ -1,11 +1,15 @@
-const h1 = document.createElement("h1");
-h1.textContent = "Hello World";
-h1.className = "header";
-console.log(h1);
+const page = (
+  <div>
+    <img src="./react-logo.png" width="40"></img>
+    <h1>Fun Facts about React</h1>
+    <ul>
+      <li> Was first released in 2013</li>
+      <li> Was originally created by Jordan Walke</li>
+      <li> Has well over 100k stars on GitHub</li>
+      <li> Is mantained by Facebook</li>
+      <li> Powers thousands of enterprise apps, including mobile apps</li>
+    </ul>
+  </div>
+);
 
-const element = <h1 className="header">This is JSX</h1>;
-console.log(element);
-
-//document.getElementById("root").append(JSON.stringify(element));
-
-ReactDOM.render(element, document.getElementById("root"));
+ReactDOM.render(page, document.getElementById("root"));
