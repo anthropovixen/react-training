@@ -4,13 +4,9 @@ import Header from "./Header";
 import MainContent from "./MainContent";
 import Footer from "./Footer";
 
-
-
-
-
-function Page() {
+function App() {
   return (
-    <div>
+    <div className="container">
       <Header />
       <MainContent />
       <Footer />
@@ -18,5 +14,5 @@ function Page() {
   );
 }
 
-ReactDOM.render(<Page />, document.getElementById("root"));
+ReactDOM.render(<App />, document.getElementById("root"));
 
