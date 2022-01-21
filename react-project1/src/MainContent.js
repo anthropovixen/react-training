@@ -2,7 +2,7 @@ import React from "react";
 
 export default function MainContent() {
   return (
-    <div>
+    <div className="body">
       <h1>Reasons why I'm excited to learn React</h1>
       <ol>
         <li> It's cool!</li>
