@@ -2,7 +2,7 @@
 
  This is a static React page for a course on React skills with Bob Ziroll. It it is a static page, with a navigation bar, a body, and a footer. Practice with components.
 
- ![Project 1 Showcase](src/images/project1-react-static_page.png)
+ ![Project 1 Showcase](project1-react-static_page.png)
 
  ## Feature
 
