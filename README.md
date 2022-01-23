@@ -2,11 +2,22 @@
 
  This is a static React page for a course on React skills with Bob Ziroll. It it is a static page, with a navigation bar, a body, and a footer. Practice with components.
 
-# Getting Started 
+ ![Project 1 Showcase](src/images/project1-react-static_page.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ ## Feature
 
-## Available Scripts
+ - Navigation bar
+ - Body content with reasons why it's cool to learn React
+ - Footer with totally enforceable copyright claim
+
+ ## Technologies
+
+- HTML
+- CSS
+- JavaScript
+- React
+
+## Start the App
 
 In the project directory, you can run:
 
@@ -33,18 +44,16 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
+## Further Help
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Author
+
+[Tanimara Elias Santos](https://github.com/anthropovixen)
+
+### Version
+
+1.0.0
