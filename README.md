@@ -6,7 +6,7 @@
 
  ## Feature
 
- - Navigation bar
+ - Navigation bar with a toggle button for dark or light mode
  - Body content with reasons why it's cool to learn React
  - Footer with totally enforceable copyright claim
 
